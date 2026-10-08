@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Letras Ufes//Prototipo//PT
+X-WR-CALNAME:Letras Ufes
+BEGIN:VEVENT
+UID:noticiasposteres-de-letras-na-jornada-de-iniciacao-cientifica-serao-apresentad@letras-prototipo
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+SUMMARY:Pôsteres de Letras na Jornada de Iniciação Científica serão apresentados em 12 de novembro
+DESCRIPTION:A XXXVI Jornada de Iniciação Científica da Ufes apresenta os resultados das pesquisas do ciclo 2025-2026\, com cerca de mil trabalhos de todas as áreas\, em sessões de pôsteres nos campi de Alegre\, Vitória e São Mateus\, en
+URL:https://lab-ia-br.github.io/letras-ufes-experimental/noticias/posteres-de-letras-na-jornada-de-iniciacao-cientifica-serao-apresentad/
+END:VEVENT
+END:VCALENDAR
